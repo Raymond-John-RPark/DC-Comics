@@ -39,7 +39,7 @@ a{
 table{
     width: 100%;
     border-collapse: seprate;
-    border-spacing: 3px 5px;
+    border-spacing: 3em 5em;
 }
 td{
     margin: 0;
