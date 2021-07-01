@@ -38,8 +38,8 @@ a{
 }
 table{
     width: 100%;
-    /* margin: 5%; */
-    padding: 5%;
+    border-collapse: seprate;
+    border-spacing: 3px 5px;
 }
 td{
     margin: 0;
